@@ -1,0 +1,645 @@
+aa	aa
+aai	aa I
+aak	aa K
+aam	aa M
+aan	aa N
+aang	aa NG
+aap	aa P
+aat	aa T
+aau	aa U
+ai	a I
+ak	a K
+am	a M
+ang	a NG
+ap	a P
+au	a U
+baa	b aa
+baai	b aa I
+baak	b aa K
+baan	b aa N
+baang	b aa NG
+baat	b aa T
+baau	b aa U
+bai	b a I
+bak	b a K
+bam	b a M
+ban	b a N
+bang	b a NG
+bat	b a T
+bau	b a U
+be	b E
+bei	b e I
+bek	b E K
+beng	b E NG
+bi	b i
+bik	b i' K
+bin	b i N
+bing	b i' NG
+bit	b i T
+biu	b i U
+bo	b O
+bok	b O K
+bong	b O NG
+bou	b o U
+bui	b u I
+buk	b u' K
+bun	b u N
+bung	b u' NG
+but	b u T
+caa	c aa
+caai	c aa I
+caam	c aa M
+caan	c aa N
+caang	c aa NG
+caak	c aa K
+caap	c aa P
+caat	c aa T
+caau	c aa U
+cai	c a I
+cak	c a K
+cam	c a M
+can	c a N
+cang	c a NG
+cap	c a P
+cat	c a T
+cau	c a U
+ce	c E
+cek	c E K
+ceng	c E NG
+ceoi	c eo I
+ceon	c eo N
+ceot	c eo T
+ci	c i
+cik	c i' K
+cim	c i M
+cin	c i N
+cing	c i' NG
+cip	c i P
+cit	c i T
+ciu	c i U
+co	c O
+coek	c oe K
+coeng	c oe NG
+coi	c O I
+cok	c O K
+cong	c O NG
+cou	c o U
+cuk	c u' K
+cun	c u N
+cung	c u' NG
+cyu	c yu
+cyun	c yu N
+cyut	c yu T
+daa	d aa
+daai	d aa I
+daak	d aa K
+daam	d aa M
+daan	d aa N
+daap	d aa P
+daat	d aa T
+dai	d a I
+dak	d a K
+dang	d a NG
+dap	d a P
+dat	d a T
+dau	d a U
+de	d E
+dei	d e I
+dek	d E K
+deng	d E NG
+deoi	d eo I
+deon	d eo N
+deot	d eo T
+deu	d E U
+di	d i
+dik	d i' K
+dim	d i M
+din	d i N
+ding	d i' NG
+dip	d i P
+dit	d i T
+diu	d i U
+do	d O
+doe	d oe
+doek	d oe K
+doi	d O I
+dok	d O K
+dong	d O NG
+dou	d o U
+duk	d u' K
+dung	d u' NG
+dyun	d yu N
+dyut	d yu T
+e	E
+ei	e I
+faa	f aa
+faai	f aa I
+faak	f aa K
+faan	f aa N
+faat	f aa T
+fai	f a I
+fan	f a N
+fang	f a NG
+fat	f a T
+fau	f a U
+fe	f E
+fei	f e I
+fiu	f i U
+fo	f O
+fok	f O K
+fong	f O NG
+fu	f u
+fui	f u I
+fuk	f u' K
+fun	f u N
+fung	f u' NG
+fut	f u T
+gaa	g aa
+gaai	g aa I
+gaak	g aa K
+gaam	g aa M
+gaan	g aa N
+gaang	g aa NG
+gaap	g aa P
+gaat	g aa T
+gaau	g aa U
+gai	g a I
+gam	g a M
+gan	g a N
+gang	g a NG
+gap	g a P
+gat	g a T
+gau	g a U
+ge	g E
+gei	g e I
+geng	g E NG
+geoi	g eo I
+gep	g E P
+gik	g i' K
+gim	g i M
+gin	g i N
+ging	g i' NG
+gip	g i P
+git	g i T
+giu	g i U
+go	g O
+goe	g oe
+goek	g oe K
+goeng	g oe NG
+goi	g O I
+gok	g O K
+gon	g O N
+gong	g O NG
+got	g O T
+gou	g o U
+gu	g u
+gui	g u I
+guk	g u' K
+gun	g u N
+gung	g u' NG
+gwaa	gw aa
+gwaai	gw aa I
+gwaak	gw aa K
+gwaan	gw aa N
+gwaang	gw aa NG
+gwaat	gw aa T
+gwai	gw a I
+gwan	gw a N
+gwang	gw a NG
+gwat	gw a T
+gwik	gw i' K
+gwing	gw i' NG
+gwo	gw O
+gwok	gw O K
+gwong	gw O NG
+gyun	g yu N
+gyut	g yu T
+haa	h aa
+haai	h aa I
+haak	h aa K
+haam	h aa M
+haan	h aa N
+haang	h aa NG
+haap	h aa P
+haau	h aa U
+hai	h a I
+hak	h a K
+ham	h a M
+han	h a N
+hang	h a NG
+hap	h a P
+hat	h a T
+hau	h a U
+hei	h e I
+hek	h E K
+heng	h E NG
+heoi	h eo I
+hik	h i' K
+him	h i M
+hin	h i N
+hing	h i' NG
+hip	h i P
+hit	h i T
+hiu	h i U
+ho	h O
+hoe	h oe
+hoeng	h oe NG
+hoi	h O I
+hok	h O K
+hon	h O N
+hong	h O NG
+hot	h O T
+hou	h o U
+huk	h u' K
+hung	h u' NG
+hyun	h yu N
+hyut	h yu T
+jaa	j aa
+jaai	j aa I
+jaak	j aa K
+jai	j a I
+jam	j a M
+jan	j a N
+jap	j a P
+jat	j a T
+jau	j a U
+je	j E
+jeng	j E NG
+jeoi	j eo I
+jeon	j eo N
+ji	j i
+jik	j i' K
+jim	j i M
+jin	j i N
+jing	j i' NG
+jip	j i P
+jit	j i T
+jiu	j i U
+jo	j O
+joek	j oe K
+joeng	j oe NG
+jou	j o U
+juk	j u' K
+jung	j u' NG
+jyu	j yu
+jyun	j yu N
+jyut	j yu T
+kaa	k aa
+kaai	k aa I
+kaat	k aa T
+kaau	k aa U
+kai	k a I
+kam	k a M
+kan	k a N
+kang	k a NG
+kap	k a P
+kat	k a T
+kau	k a U
+ke	k E
+kei	k e I
+kek	k E K
+keoi	k eo I
+kik	k i' K
+kim	k i M
+kin	k i N
+king	k i' NG
+kit	k i T
+kiu	k i U
+ko	k O
+koe	k oe
+koek	k oe K
+koeng	k oe NG
+koi	k O I
+kok	k O K
+kong	k O NG
+ku	k u
+kui	k u I
+kuk	k u' K
+kung	k u' NG
+kut	k u T
+kwaa	kw aa
+kwaai	kw aa I
+kwaang	kw aa NG
+kwai	kw a I
+kwan	kw a N
+kwik	kw i' K
+kwok	kw O K
+kwong	kw O NG
+kyun	k yu N
+kyut	k yu T
+laa	l aa
+laai	l aa I
+laak	l aa K
+laam	l aa M
+laan	l aa N
+laang	l aa NG
+laap	l aa P
+laat	l aa T
+laau	l aa U
+lai	l a I
+lak	l a K
+lam	l a M
+lang	l a NG
+lap	l a P
+lat	l a T
+lau	l a U
+le	l E
+lei	l e I
+lek	l E K
+lem	l E M
+leng	l E NG
+leoi	l eo I
+leon	l eo N
+leot	l eo T
+li	l i
+lik	l i' K
+lim	l i M
+lin	l i N
+ling	l i' NG
+lip	l i P
+lit	l i T
+liu	l i U
+lo	l O
+loek	l oe K
+loeng	l oe NG
+loi	l O I
+lok	l O K
+long	l O NG
+lou	l o U
+luk	l u' K
+lung	l u' NG
+lyun	l yu N
+lyut	l yu T
+m	'm
+maa	m aa
+maai	m aa I
+maak	m aa K
+maan	m aa N
+maang	m aa NG
+maat	m aa T
+maau	m aa U
+mai	m a I
+mak	m a K
+mam	m a M
+man	m a N
+mang	m a NG
+mat	m a T
+mau	m a U
+me	m E
+mei	m e I
+meng	m E NG
+mi	m i
+mik	m i' K
+min	m i N
+ming	m i' NG
+mit	m i T
+miu	m i U
+mo	m O
+mok	m O K
+mong	m O NG
+mou	m o U
+mui	m u I
+muk	m u' K
+mun	m u N
+mung	m u' NG
+mut	m u T
+naa	n aa
+naai	n aa I
+naam	n aa M
+naan	n aa N
+naap	n aa P
+naat	n aa T
+naau	n aa U
+nai	n a I
+nak	n a K
+nam	n a M
+nan	n a N
+nang	n a NG
+nap	n a P
+nat	n a T
+nau	n a U
+ne	n E
+nei	n e I
+neoi	n eo I
+neot	n eo T
+ng	'ng
+ngaa	ng aa
+ngaai	ng aa I
+ngaak	ng aa K
+ngaam	ng aa M
+ngaan	ng aa N
+ngaang	ng aa NG
+ngaap	ng aa P
+ngaat	ng aa T
+ngaau	ng aa U
+ngai	ng a I
+ngak	ng a K
+ngam	ng a M
+ngan	ng a N
+ngang	ng a NG
+ngap	ng a P
+ngat	ng a T
+ngau	ng a U
+ngit	ng i T
+ngo	ng O
+ngoi	ng O I
+ngok	ng O K
+ngon	ng O N
+ngong	ng O NG
+ngou	ng o U
+nguk	ng u' K
+ngung	ng u' NG
+n	n
+ni	n i
+nik	n i' K
+nim	n i M
+nin	n i N
+ning	n i' NG
+nip	n i P
+niu	n i U
+no	n O
+noeng	n oe NG
+noi	n O I
+nok	n O K
+nong	n O NG
+nou	n o U
+nuk	n u' K
+nung	n u' NG
+nyun	n yu N
+o	O
+oi	O I
+ok	O K
+on	O N
+ong	O NG
+ou	o U
+paa	p aa
+paai	p aa I
+paak	p aa K
+paan	p aa N
+paang	p aa NG
+paat	p aa T
+paau	p aa U
+pai	p a I
+pan	p a N
+pang	p a NG
+pat	p a T
+pau	p a U
+pei	p e I
+pek	p E K
+peng	p E NG
+pik	p i' K
+pin	p i N
+ping	p i' NG
+pit	p i T
+piu	p i U
+po	p O
+poi	p O I
+pok	p O K
+pong	p O NG
+pou	p o U
+pui	p u I
+puk	p u' K
+pun	p u N
+pung	p u' NG
+put	p u T
+saa	s aa
+saai	s aa I
+saak	s aa K
+saam	s aa M
+saan	s aa N
+saang	s aa NG
+saap	s aa P
+saat	s aa T
+saau	s aa U
+sai	s a I
+sak	s a K
+sam	s a M
+san	s a N
+sang	s a NG
+sap	s a P
+sat	s a T
+sau	s a U
+se	s E
+sei	s e I
+sek	s E K
+seng	s E NG
+seoi	s eo I
+seon	s eo N
+seot	s eo T
+si	s i
+sik	s i' K
+sim	s i M
+sin	s i N
+sing	s i' NG
+sip	s i P
+sit	s i T
+siu	s i U
+so	s O
+soek	s oe K
+soeng	s oe NG
+soi	s O I
+sok	s O K
+song	s O NG
+sou	s o U
+suk	s u' K
+sung	s u' NG
+syu	s yu
+syun	s yu N
+syut	s yu T
+taa	t aa
+taai	t aa I
+taam	t aa M
+taan	t aa N
+taap	t aa P
+taat	t aa T
+tai	t a I
+tam	t a M
+tan	t a N
+tang	t a NG
+tau	t a U
+tek	t E K
+teng	t E NG
+teoi	t eo I
+teon	t eo N
+tik	t i' K
+tim	t i M
+tin	t i N
+ting	t i' NG
+tip	t i P
+tit	t i T
+tiu	t i U
+to	t O
+toe	t oe
+toi	t O I
+tok	t O K
+tong	t O NG
+tou	t o U
+tuk	t u' K
+tung	t u' NG
+tyun	t yu N
+tyut	t yu T
+uk	u' K
+ung	u' NG
+waa	w aa
+waai	w aa I
+waak	w aa K
+waan	w aa N
+waang	w aa NG
+waat	w aa T
+wai	w a I
+wan	w a N
+wang	w a NG
+wat	w a T
+wik	w i' K
+wing	w i' NG
+wo	w O
+wou	w o U
+wok	w O K
+wong	w O NG
+wu	w u
+wui	w u I
+wun	w u N
+wut	w u T
+zaa	z aa
+zaai	z aa I
+zaak	z aa K
+zaam	z aa M
+zaan	z aa N
+zaang	z aa NG
+zaap	z aa P
+zaat	z aa T
+zaau	z aa U
+zai	z a I
+zak	z a K
+zam	z a M
+zan	z a N
+zang	z a NG
+zap	z a P
+zat	z a T
+zau	z a U
+ze	z e
+zek	z E K
+zeng	z E NG
+zeoi	z eo I
+zeon	z eo N
+zeot	z eo T
+zi	z i
+zik	z i' K
+zim	z i M
+zin	z i N
+zing	z i' NG
+zip	z i P
+zit	z i T
+ziu	z i U
+zo	z O
+zoek	z oe K
+zoeng	z oe NG
+zoi	z O I
+zok	z O K
+zong	z O NG
+zou	z o U
+zuk	z u' K
+zung	z u' NG
+zyu	z yu
+zyun	z yu N
+zyut	z yu T
