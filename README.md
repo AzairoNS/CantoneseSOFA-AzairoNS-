@@ -7,6 +7,10 @@
 -    Training Steps: 100K steps
 - Dataset from my husband and me =D
 
+## Dictionary
+- Based on colstone Cantonese dictionary (https://github.com/colstone/Multi-langs_Dictionary) with some edit based on SynthV Phoneme Reference (https://dreamtonics.com/svstudio-resources/)
+
+
 ## Version 250806
 - Date: 6 Aug 2025
 - Languages Used: Cantonese
