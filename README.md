@@ -10,12 +10,3 @@
 ## Dictionary
 - Based on colstone Cantonese dictionary (https://github.com/colstone/Multi-langs_Dictionary) with some edit based on SynthV Phoneme Reference (https://dreamtonics.com/svstudio-resources/)
 
-
-## Version 250806
-- Date: 6 Aug 2025
-- Languages Used: Cantonese
-- Applicability: Singing Voice
-- Hyperparameters:
--    Dataset Time: ~20 minute
--    Training Steps: 100K steps
-- Dataset by AzairoNS only
